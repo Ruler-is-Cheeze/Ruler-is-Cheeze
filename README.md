@@ -10,7 +10,7 @@ Ruler is Cheezeは私の所属するバンドです。
 <br></br>
 
 ## 公開URL
-https://ykishimotoy.github.io/Ruler_is_Cheeze/
+https://ruler-is-cheeze.github.io/Ruler-is-Cheeze/
 
 
 <br></br>
